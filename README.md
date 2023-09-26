@@ -8,6 +8,6 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://github.com/UnixUniversal)
 
-[![GitHub Languages](https://github-readme-streak-stats.herokuapp.com/?user=unixuniversal&theme=dark&background=000000)](/)
+[![GitHub Languages](https://github-readme-streak-stats.herokuapp.com/?user=unixuniversal&theme=dark&background=000000)](https://github.com/UnixUniversal)
