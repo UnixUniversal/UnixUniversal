@@ -8,6 +8,6 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unixuniversal&theme=tokyonight&hide_border=true&mode=weekly)](https://github.com/UnixUniversal)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unixuniversal&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub Languages](https://github-readme-streak-stats.herokuapp.com/?user=unixuniversal&theme=dark&background=000000)](https://github.com/UnixUniversal)
+[![GitHub Languages](https://github-readme-streak-stats.herokuapp.com/?user=unixuniversal&theme=dark&background=000000)](https://git.io/streak-stats)
